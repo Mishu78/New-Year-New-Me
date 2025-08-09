@@ -1,0 +1,318 @@
+.banner{
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    justify-items: center;
+}
+
+.banner-details{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+}
+
+.banner-common{
+    color: rgba(255, 255, 255, 1);
+font-family: Merriweather;
+}
+.banner-title{
+    font-size: 32px;
+font-weight: 400;
+margin-bottom: 0px;
+
+}
+  .banner-one{
+border-radius: 16px;
+
+background: linear-gradient(180.00deg, rgba(7, 2, 17, 1),rgba(7, 2, 17, 0) 100%);
+ font-size: 72px;
+font-weight: 900;  
+}
+
+.merriweather{
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
+.off{
+    color: rgba(255, 0, 0, 1);
+    font-size: 88px;
+font-weight: 600;
+
+}
+
+.off-title{
+    color: rgba(255, 0, 0, 1);
+font-size: 24px;
+font-weight: 500;
+}
+
+.off-para{
+    margin-top: 0px;
+    color: rgba(7, 2, 17, 1);
+font-size: 48px;
+font-weight: 600;
+}
+.off-class{
+    justify-items: center;
+    
+    justify-content: center;
+}
+
+.vector-class{
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    position: relative;
+    margin-top:120px;
+}
+.vector-details{
+   padding-right:40px; 
+}
+.vector-title{
+    color: rgba(255, 255, 255, 1);
+font-size: 64px;
+font-weight: 900;
+}
+.vector-para{
+color: rgba(255, 255, 255, 0.8);
+font-size: 18px;
+font-weight: 400;
+}
+.vector-join{
+    color: rgba(255, 255, 255, 1);
+font-size: 20px;
+font-weight: 600;
+}
+.vector-img{
+    border-radius: 16px;
+background: linear-gradient(90.00deg, rgba(7, 2, 17, 1),rgba(7, 2, 17, 0) 100%);
+}
+.vector-full{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    padding-left: 120px;
+    transform: translate(-50%,-50%);
+}
+/*.vector-img-two{
+    position: absolute;
+    top: 15%;
+    right:27%;
+}*/
+
+.location-class{
+    align-items: end;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 120px;
+}
+
+.location{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 400;
+    align-content: center;
+  text-align: center;
+width: 1320px;
+height: 482px;
+    border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
+.button{
+    border-style: none;
+    padding: 16px 32px;;
+    color: rgba(255, 255, 255, 1);
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+    width: 167px;
+height: 56px;
+    border-radius: 8px;
+background: rgba(255, 0, 0, 1);
+}
+
+.best-offer-class{
+    display: flex;
+}
+
+.best-offer{
+    display:flex;
+}
+
+.best-offer-title{
+    color: rgba(255, 0, 0, 1);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.best-offer-title-two{
+    color: rgba(7, 2, 17, 1);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.best-offer-para{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
+
+.best-offer-year{
+    color: rgba(255, 0, 0, 1);
+font-family: Inter;
+font-size: 48px;
+font-weight: 600;
+}
+.best-offer-year-details{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
+.best-offer-year-img{
+    width: 140px;
+height: 140px;
+}
+
+.best-offer{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+.best-offer-banner{
+    padding-right:120px;
+}
+
+.best-offer-banner-two{
+    padding-left:120px;
+}
+
+.best-offer-img{
+    box-sizing: border-box;
+border: 15px solid rgba(255, 0, 0, 1);
+border-radius: 200px;
+}
+.holiday-sale-para-one{
+    color: rgba(7, 2, 17, 1);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+
+.holiday-sale-title{
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+.holiday-sale-para-two{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+}
+.holiday-sale{
+    text-align: center;
+justify-content: center;
+justify-items: center;
+}
+.holiday-sale-details{
+    margin-top: 120px;
+}
+.sale-details-img{
+    margin-top:120px;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    padding-top: 400px;
+    position: relative;
+}
+.sale-img-one{
+    position: absolute;
+    right: 48%;
+    bottom:10%;
+}
+.sale-img{
+     
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.sale-img-two{
+  
+     position: absolute;
+    left: 53.75%;
+    bottom:220px;
+}
+.sale-img-three{
+    position: absolute;
+    left: 52%;
+    bottom:230px;
+}
+
+.best-gift-class{
+  
+justify-items: center;
+    margin-top: 120px;
+}
+
+.best-gift-title{
+    color: rgba(255, 0, 0, 1);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.best-gift-title-two{
+    color: rgba(7, 2, 17, 1);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.best-gift-para{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
+.best-gift{
+    padding-left: 0px;
+}
+
+.footer{
+    background-color: black;
+ justify-content: center;
+    justify-items: center;
+    margin-top: 120px;
+}
+.footer-class{
+  color: white;
+    display: flex;
+    
+}
+.footer-one{
+    padding-right: 559px;
+}
+
+.icons{
+    padding-left: 200px;
+}
+.footer-two{
+    padding-right:800px;
+}
+
